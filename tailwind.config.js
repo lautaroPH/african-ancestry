@@ -11,8 +11,14 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'home-main': "url('/background-image.webp')",
+      },
+      colors: {
+        'purple-secondary': '#221F46',
+        'purple-primary': '#352F85',
+        'purple-light': '#6132C6',
       },
     },
   },
   plugins: [],
-}
+};
