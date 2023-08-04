@@ -5,7 +5,7 @@ import PunchSvg from './Svg/PunchSvg';
 
 const LeftChooseArticle = () => {
   return (
-    <article className="flex flex-col items-center justify-center pr-16 border-r gap-y-10 border-purple-light">
+    <article className="flex flex-col items-center justify-center pr-4 border-r sm:pr-16 gap-y-10 border-purple-light">
       <img
         src="/logo.webp"
         alt="logo"

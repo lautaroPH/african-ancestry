@@ -2,7 +2,7 @@ import TickOrgange from './Svg/TickOrgange';
 
 const ListOfBenefits = () => {
   return (
-    <ul className="flex flex-col gap-y-12">
+    <ul className="flex flex-col text-lg gap-y-8">
       <li className="flex items-center gap-3 font-medium text-purple-primary">
         <div>
           <TickOrgange />
