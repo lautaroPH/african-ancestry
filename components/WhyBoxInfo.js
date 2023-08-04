@@ -2,7 +2,7 @@ const WhyBoxInfo = () => {
   return (
     <article className="grid grid-cols-2">
       <div className="flex flex-col items-center justify-center pb-3 pr-3 border-b border-r border-gray-300 gap-y-5">
-        <img src="/akan-gif.webp" alt="why1" />
+        <img src="/akan.webp" alt="why1" />
         <p className="text-sm text-center text-purple-primary w-44">
           Specific African country and tribe results
         </p>
