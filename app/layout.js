@@ -21,9 +21,11 @@ export default function RootLayout({ children }) {
             HOLIDAY22 At Checkout
           </p>
         </div>
-        <div className="relative z-50 lg:bg-right-top lg:bg-no-repeat lg:bg-home-main">
-          <Header />
-          {children}
+        <div className="bg-[#F5F0FF]">
+          <div className="relative z-50 lg:bg-right-top lg:bg-no-repeat lg:!bg-home-main">
+            <Header />
+            {children}
+          </div>
         </div>
         <Footer />
       </body>
