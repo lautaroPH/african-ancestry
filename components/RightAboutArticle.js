@@ -1,10 +1,10 @@
 const RightAboutArticle = () => {
   return (
     <article className="order-1 px-4 mt-8 lg:pl-20 lg:order-2">
-      <h3 className="text-4xl font-semibold lg:text-5xl text-purple-secondary">
+      <h3 className="text-4xl font-semibold text-center lg:text-5xl text-purple-secondary lg:text-left">
         About
       </h3>
-      <h3 className="mt-3 text-4xl font-semibold lg:mt-5 lg:text-5xl text-purple-secondary">
+      <h3 className="mt-3 text-4xl font-semibold text-center lg:mt-5 lg:text-5xl text-purple-secondary lg:text-left">
         African Ancestry
       </h3>
       <p className="mt-10 text-sm tracking-widest text-center lg:text-left lg:text-base text-purple-secondary">

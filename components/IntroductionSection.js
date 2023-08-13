@@ -47,7 +47,7 @@ const IntroductionSection = () => {
             <img src="/affirm.png" alt="affirm" className="-mt-2" />
           </div>
         </article>
-        <article className="hidden pl-20 lg:block">
+        <article className="pl-10 mt-5 lg:pl-20 lg:mt-0">
           <picture>
             <img src="/dna.webp" alt="dna" />
           </picture>
